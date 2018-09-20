@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  background-color:#fafafa;
+}
+.search{
+  border-radius: 5px;
+  width:480px;
+  padding: 5px;
+  border:1px solid #ccc;
+}
+table{
+  text-align: left;
+  width:500px;
+  margin: 0 auto;
+  padding:5px;
+  border:1px solid #ccc;
+  
+}
+li{
+  display:inline-block;
+  text-decoration: none;
+  padding:20px;
+  
+  
+}
+.table{
+  display:inline-block;
+  text-align: left;
+}
+button{
+  padding:3px;
+}
+tr{
+border:1px solid #000 !important;
+}
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
